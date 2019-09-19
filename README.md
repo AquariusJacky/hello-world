@@ -1,2 +1,5 @@
 # hello-world
-Tutorial repository
+
+Hi Humans!
+
+This is a GitHub Tutorial!
